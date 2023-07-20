@@ -1,0 +1,88 @@
+/*
+.predmeti_container_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    height: 40px;
+    
+
+}
+
+.input_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+.input_polje{
+    flex: 1;
+    padding: 10px;
+    border: 0.3px solid #ccc;
+    border-radius: 4px 0px 0px 4px;
+    width: 100%;
+    background-color: whitesmoke;
+    
+}
+.container_show_predmet{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(265px,1fr));
+    grid-auto-rows: 180px;
+    grid-gap: 20px;
+    margin: 20px;
+}
+
+.predmet_overviewcard{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    background-color: #e6f5fc;
+    border: 1px solid gray;
+    border-radius: 5px;
+    position: relative;
+    padding-bottom: 20px;
+   
+}
+.predmet_title_container{
+    color: gray;
+    background-color: whitesmoke;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 1px solid gray;
+    width: 100%;
+    background-color: #ce93d892;
+}
+
+.predmet_title{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+.predmet_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.button{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    
+}
+.card_button{
+    color: gray;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+*/
